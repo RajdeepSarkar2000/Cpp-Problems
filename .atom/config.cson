@@ -1,0 +1,11 @@
+"*":
+  "atom-python-run": {}
+  core:
+    uriHandlerRegistration: "never"
+  "exception-reporting":
+    userId: "accf5c04-e987-409a-a0a2-01610e2e1322"
+  "platformio-ide-terminal":
+    core:
+      shell: "C:\\Program Files\\Git\\bin\\bash.exe"
+    toggles:
+      autoClose: true
